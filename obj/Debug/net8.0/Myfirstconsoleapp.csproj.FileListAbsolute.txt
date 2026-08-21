@@ -12,3 +12,4 @@
 /Users/user/RiderProjects/Myfirstconsoleapp/obj/Debug/net8.0/Myfirstconsoleapp.pdb
 /Users/user/RiderProjects/Myfirstconsoleapp/obj/Debug/net8.0/Myfirstconsoleapp.genruntimeconfig.cache
 /Users/user/RiderProjects/Myfirstconsoleapp/obj/Debug/net8.0/ref/Myfirstconsoleapp.dll
+/Users/user/RiderProjects/Myfirstconsoleapp/obj/Debug/net8.0/Myfirstconsoleapp.sourcelink.json
